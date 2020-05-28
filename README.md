@@ -16,6 +16,7 @@ to open the mostly used websites on my daily rutine.
 
 # Milestones
 Import the needed packages.
+Set them to close after a period of time (Still working on it).
 
 # Requirements
 Python, 
