@@ -1,7 +1,10 @@
 # Web_browser_tool
 
 # Project Summary
-This program is used to open the mostly used websites on my daily rutine.
+This program is used to open the mostly used websites on my daily rutine. 
+I have already set my default brwoser to be Google Chrome before using this program.
+For this program to work, we need to import the modules webbrowser, time, and keyboard.
+And we need to use a for count.
 
 # Technical Summary
 Back end language: Python
