@@ -7,7 +7,7 @@ For this program to work, we need to import the modules webbrowser, time, and ke
 And we need to use a for count.
 
 # Technical Summary
-Back end language: Python
+Back end language: Python, 
 Web browser: Google Chrome
 
 # Features
@@ -17,6 +17,7 @@ to open the mostly used websites on my daily rutine.
 # Milestones
 Import the needed packages.
 Set them to close after a period of time (Still working on it).
+Currently working on translating program procedures into Spanish.
 
 # Requirements
 Python, 
